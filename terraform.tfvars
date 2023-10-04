@@ -1,0 +1,6 @@
+vpc_cidr_block      = "10.0.0.0/16"
+terra_subnet_cidr   = "10.0.20.0/24"
+terra_subnet_2_cidr = "10.0.30.0/24"
+env                 = "uat"
+avail_zone          = "us-east-1b"
+my_ip               = "24.13.156.47/32"
